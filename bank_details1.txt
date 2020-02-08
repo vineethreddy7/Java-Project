@@ -1,0 +1,15 @@
+4555,vinee,22,21637,savings
+2333,Bhanu,23,10066,chequein
+3677,Bhanu,21,10000,joint
+9877,Kiran,54,2000,credit
+1233,Shyam,67,25800,credit
+6677,Prudhvi,66,12000,joint
+7566,Karthik,34,65888,savings
+9534,Vishal,45,90222,chequein
+303,Mohan,32,87666,credit
+3173,Nandu,34,8700,savings
+9066,rishi,21,100,chequein
+998,shyam,34,56012,savings
+6072,Manoj,65,908880,chequein
+5646,bhanu,2,1987,chequein
+5460,John,54,52000,savings
